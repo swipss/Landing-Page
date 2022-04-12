@@ -133,5 +133,33 @@ button {
     font-weight: bold;
     
 }
+.action {
+    margin: 80px 0
+}
+.action .container {
+    display: flex;
+    justify-content: space-between;
+    background-color: #3882f6;
+    border-radius: 10px;
+    padding: 40px 70px
+}
+.action h3 {
+    color: #f9faf8;
+}
+.action p {
+    color: #e5e7eb
+}
 
+#action-btn {
+    border: 2px solid white;
+}
 
+.footer {
+    background-color: #1f2937;
+    height: 60px;
+    color:#f9faf8;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
