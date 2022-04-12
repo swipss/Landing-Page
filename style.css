@@ -84,7 +84,9 @@ button {
     color: #e5e7eb;
     font-size: 18px;
 }
-
+.boxes {
+    padding: 60px 0
+}
 .boxes .container {
     display: flex;
     justify-content: center;
@@ -114,5 +116,22 @@ button {
     align-items: center;
 }
 
+.quote {
+    background-color: #e5e7eb;
+    padding: 60px 0
+    
+}
+#quote {
+    color: #1f2937;
+    font-style: italic;
+    font-size: 36px;
+    text-align: center;
+}
+
+#quoter {
+    text-align: right;
+    font-weight: bold;
+    
+}
 
 
